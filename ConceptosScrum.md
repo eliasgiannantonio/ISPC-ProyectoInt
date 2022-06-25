@@ -52,3 +52,54 @@ El equipo de desarrollo se encargará de crear un incremento terminado a partir 
 Es importante que en la metodología Scrum todos los miembros del equipo de desarrollo conozcan su rol, siendo solo uno común para todos, independientemente del número de miembros que tenga el equipo y cuales sean sus roles internos. Cómo el equipo de desarrollo decida gestionarse internamente es su propia responsabilidad y tendrá que rendir cuentas por ello como uno solo; hay que evitar intervenir en sus dinámicas.
 
 Habitualmente son equipos ‘cross-funcional’, capaces de generar un incremento terminado de principio a fin, sin otras dependencias externas.
+
+-Artefactos en SCRUM:
+
+Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto.
+
+Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas.
+
+Pero veamos cuales son estos Artefactos:
+
+-Product Backlog
+Es una lista ordenada, que contiene todo lo que podría ser necesario en el producto y es la única fuente de requisitos para hacer cambios en el producto.
+
+El único responsable del Product Backlog es el Product Owner. Es el encargado de ordenar y añadir ítems.
+
+Por definición, esta lista nunca está completa, sino que es un ente vivo y dinámico, que va cambiando según lo hace el entorno y el propio producto para ser adecuado, competitivo y útil.
+
+Los ítems que aparecen en el Product Backlog tienen los siguientes atributos:
+
+    Descripción
+    Ordenación
+    Estimación
+    Valor
+
+A medida que el producto va siendo usado y se recibe feedback, la lista se va haciendo más larga y detallada.
+
+Los elementos o ítems que están ordenados más arriba, normalmente son los más detallados y claros, ya que serán los más próximos a ser desarrollados.
+
+-Sprint Backlog
+Son los ítems o elementos del Product Backlog seleccionados para ser ejecutados durante el Sprint en curso. Así pues, el Sprint Backlog es un plan para entregar un Incremento de producto “Terminado” al final del Sprint.
+
+A medida que se va trabajando sobre el producto, va apareciendo nuevo trabajo, que el Equipo de Desarrollo va añadiendo al Sprint Backlog.
+El Sprint Backlog solo lo puede modificar durante el Sprint, el Equipo de Desarrollo, así como eliminarlo.
+
+-Incremento
+Es la suma de todos los elementos del Sprint Backlog “Terminados” más los Incrementos de Sprints anteriores.
+
+“Terminado” significa que puede ser utilizado y que además cumple con la “Definición de Terminado”, es decir, lo que todo el mundo entiende dentro del equipo por terminado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
